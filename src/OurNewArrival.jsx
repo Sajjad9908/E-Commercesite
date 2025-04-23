@@ -24,7 +24,8 @@ const OurNewArrival = () => {
               <div className='mobile:text-center'>
               <h2 className='uppercase marcellus-regular text-[20px] mt-3 '>Dark Flourish OnePiece</h2>
               <p className='uppercase jost-medium text-[20px] mt-1 group-hover:hidden'>$95.00</p>
-              <p className='jost-medium text-[16px] mt-1 bottom-[-700%] hidden group-hover:block group-hover:transition-all group-hover:duration-700 cursor-pointer'>Add To Cart</p>
+              <p className='jost-medium text-[16px] mt-1 bottom-[-700%] scale-0 group-hover:transform 
+              group-hover:scale-100 group-hover:rotate-10 group-hover:transition-all group-hover:duration-700 cursor-pointer'>Add To Cart</p>
               
               </div>
             </div>
