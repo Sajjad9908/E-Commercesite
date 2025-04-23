@@ -23,9 +23,9 @@ const OurNewArrival = () => {
               </div>
               <div className='mobile:text-center'>
               <h2 className='uppercase marcellus-regular text-[20px] mt-3 '>Dark Flourish OnePiece</h2>
-              <p className='uppercase jost-medium text-[20px] mt-1 group-hover:hidden'>$95.00</p>
+              <p className='uppercase jost-medium text-[20px] scale-100 mt-1 group-hover:scale-0'>$95.00</p>
               <p className='jost-medium text-[16px] mt-1 bottom-[-700%] scale-0 group-hover:transform 
-              group-hover:scale-100 group-hover:rotate-10 group-hover:transition-all group-hover:duration-700 cursor-pointer'>Add To Cart</p>
+              group-hover:scale-100 group-hover:-translate-y-7 group-hover:transition-all group-hover:duration-700 cursor-pointer'>Add To Cart</p>
               
               </div>
             </div>
@@ -35,8 +35,9 @@ const OurNewArrival = () => {
               <div className='text-center hidden group-hover:flex group-hover:justify-center group-hover:items-center group-hover:absolute group-hover:bg-white group-hover:w-9 group-hover:h-9 group-hover:top-4 group-hover:right-4 border-r-2 group-hover:transition-transform group-hover:duration-300 '><CiHeart className='text-[26px] text-center font-bold' /></div>
               <div className='mobile:text-center'>
               <h2 className='uppercase marcellus-regular text-[20px] mt-3 '>Dark Flourish OnePiece</h2>
-              <p className='uppercase jost-medium text-[20px] mt-1 group-hover:hidden'>$95.00</p>
-              <p className='jost-medium text-[16px] mt-1 bottom-[-700%] hidden group-hover:block group-hover:transition-all group-hover:duration-700 cursor-pointer'>Add To Cart</p>
+              <p className='uppercase jost-medium text-[20px] scale-100 mt-1 group-hover:scale-0'>$95.00</p>
+              <p className='jost-medium text-[16px] mt-1 bottom-[-700%] scale-0 group-hover:transform 
+              group-hover:scale-100 group-hover:-translate-y-7 group-hover:transition-all group-hover:duration-700 cursor-pointer'>Add To Cart</p>
               
               </div>
             </div>
@@ -45,8 +46,9 @@ const OurNewArrival = () => {
               <div className='text-center hidden group-hover:flex group-hover:justify-center group-hover:items-center group-hover:absolute group-hover:bg-white group-hover:w-9 group-hover:h-9 group-hover:top-4 group-hover:right-4 border-r-2 group-hover:transition-transform group-hover:duration-300 '><CiHeart className='text-[26px] text-center font-bold' /></div>
               <div className='mobile:text-center'>
               <h2 className='uppercase marcellus-regular text-[20px] mt-3 '>Dark Flourish OnePiece</h2>
-              <p className='uppercase jost-medium text-[20px] mt-1 group-hover:hidden'>$95.00</p>
-              <p className='jost-medium text-[16px] mt-1 hidden group-hover:block group-hover:transition-all group-hover:duration-[20s] cursor-pointer'>Add To Cart</p>
+              <p className='uppercase jost-medium text-[20px] scale-100 mt-1 group-hover:scale-0'>$95.00</p>
+              <p className='jost-medium text-[16px] mt-1 bottom-[-700%] scale-0 group-hover:transform 
+              group-hover:scale-100 group-hover:-translate-y-7 group-hover:transition-all group-hover:duration-700 cursor-pointer'>Add To Cart</p>
               
               </div>
             </div>

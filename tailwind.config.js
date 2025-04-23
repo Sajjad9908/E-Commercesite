@@ -20,7 +20,9 @@ export default {
       nunito: ['Nunito', 'sans-serif'],
       custom: ['Jost', 'Roboto', 'sans-serif'],
     },
-
+    rotate: {
+      360: '360deg',
+    }
 
     },
   },

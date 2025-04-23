@@ -1,0 +1,14 @@
+[1mdiff --git a/src/OurNewArrival.jsx b/src/OurNewArrival.jsx[m
+[1mindex de44cc0..6a9c512 100644[m
+[1m--- a/src/OurNewArrival.jsx[m
+[1m+++ b/src/OurNewArrival.jsx[m
+[36m@@ -24,7 +24,8 @@[m [mconst OurNewArrival = () => {[m
+               <div className='mobile:text-center'>[m
+               <h2 className='uppercase marcellus-regular text-[20px] mt-3 '>Dark Flourish OnePiece</h2>[m
+               <p className='uppercase jost-medium text-[20px] mt-1 group-hover:hidden'>$95.00</p>[m
+[31m-              <p className='jost-medium text-[16px] mt-1 bottom-[-700%] hidden group-hover:block group-hover:transition-all group-hover:duration-700 cursor-pointer'>Add To Cart</p>[m
+[32m+[m[32m              <p className='jost-medium text-[16px] mt-1 bottom-[-700%] scale-0 group-hover:transform[m[41m [m
+[32m+[m[32m              group-hover:scale-100 group-hover:rotate-10 group-hover:transition-all group-hover:duration-700 cursor-pointer'>Add To Cart</p>[m
+               [m
+               </div>[m
+             </div>[m
